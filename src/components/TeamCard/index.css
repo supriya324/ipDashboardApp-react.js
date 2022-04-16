@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.item-container {
+  background-color: #475569;
+  border: 1px solid #ffffff;
+  border-radius: 6px;
+  margin: 10px;
+  width: 190px;
+  height: 80px;
+  margin-left: 10px;
+  display: flex;
+}
+.dash {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.item-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 15px;
+}
+.dashboard-image {
+  width: 60px;
+}
+.list-container {
+  flex-wrap: wrap;
+}
